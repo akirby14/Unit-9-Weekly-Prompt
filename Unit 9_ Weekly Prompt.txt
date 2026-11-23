@@ -1,0 +1,10 @@
+﻿Adryiana Kirby
+Chapter 16 Topics
+
+
+
+
+Discuss the differences between CSV and JSON data records. What are the best data types for CSV? The best data types for JSON?
+
+
+The difference betweeh CSV and JSON data records is they both store data, but do it differently. CSV stores data in rows and columns but like using spreadsheets and tables. JSON stores data using key-value pairs, which can store data like lists. The major difference is that CSV is better for storing simple data that can be found in spreadsheets unlike JSON which is better for storing more complicated information. JSON is definitely better for storing data in programs because the information can be very complex and take up alot of storage. CSV files are known to take up much less storage than JSON files because they don’t have as much to store. As well as they are known to be faster than JSON files too. CSV works the best with data types like strings, integers, floats, and plain text values. While JSON is best for strings, numbers, booleans, arrays, objects, and null values.
